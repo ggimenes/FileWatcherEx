@@ -1,3 +1,5 @@
+# Port from FileWatcherEx to .net core
+
 # FileWatcherEx for Windows
 A wrapper of C# `FileSystemWatcher` for Windows, used in [ImageGlass](https://github.com/d2phap/ImageGlass) project.
 

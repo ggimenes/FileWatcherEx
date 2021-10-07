@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageProjectUrl>https://github.com/ggimenes/FileWatcherEx.NetCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ggimenes/FileWatcherEx.NetCore</RepositoryUrl>
+    <Description>
+Port to .net core of the project https://github.com/d2phap/FileWatcherEx
+A wrapper of C# FileSystemWatcher for Windows, used in ImageGlass project (https://imageglass.org). This project is based on the VSCode FileWatcher: https://github.com/Microsoft/vscode-filewatcher-windows.</Description>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <Authors>ggimenes</Authors>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Copyright>&amp;#x00A9; Duong Dieu Phap. All rights reserved.</Copyright>
+  </PropertyGroup>
+
+</Project>
